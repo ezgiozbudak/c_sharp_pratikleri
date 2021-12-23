@@ -1,0 +1,16 @@
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\Switch case.exe
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\Switch case.deps.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\Switch case.runtimeconfig.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\Switch case.runtimeconfig.dev.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\Switch case.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\ref\Switch case.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\bin\Debug\net5.0\Switch case.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.csproj.AssemblyReference.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.AssemblyInfoInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.AssemblyInfo.cs
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.csproj.CoreCompileInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\ref\Switch case.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\Switch case\obj\Debug\net5.0\Switch case.genruntimeconfig.cache
