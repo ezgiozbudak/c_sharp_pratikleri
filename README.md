@@ -10,4 +10,5 @@ C# eğitimi boyunca yaptığım pratikler.
 * ## [Switch-case Karar Yapıları-2 ](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Switch%20case)
 * ## [Döngüler-1](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/d%C3%B6ng%C3%BCler)
 * ## [Döngüler-2 ](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/while-foreach)
+* ## [Diziler-1 ](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/diziler-1)
 
