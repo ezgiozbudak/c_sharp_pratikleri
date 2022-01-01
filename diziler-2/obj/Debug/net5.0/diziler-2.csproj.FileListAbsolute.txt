@@ -1,0 +1,16 @@
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\diziler-2.exe
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\diziler-2.deps.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\diziler-2.runtimeconfig.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\diziler-2.runtimeconfig.dev.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\diziler-2.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\ref\diziler-2.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\bin\Debug\net5.0\diziler-2.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.csproj.AssemblyReference.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.AssemblyInfoInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.AssemblyInfo.cs
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.csproj.CoreCompileInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\ref\diziler-2.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\diziler-2\obj\Debug\net5.0\diziler-2.genruntimeconfig.cache
