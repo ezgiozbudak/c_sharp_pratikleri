@@ -11,4 +11,5 @@ C# eğitimi boyunca yaptığım pratikler.
 * ## [Döngüler-1](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/d%C3%B6ng%C3%BCler)
 * ## [Döngüler-2 ](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/while-foreach)
 * ## [Diziler-1 ](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/diziler-1)
+* ## [Diziler-2](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/diziler-2)
 
