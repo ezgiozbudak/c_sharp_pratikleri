@@ -1,0 +1,16 @@
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\Rekursif_extension_metotlar.exe
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\Rekursif_extension_metotlar.deps.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\Rekursif_extension_metotlar.runtimeconfig.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\Rekursif_extension_metotlar.runtimeconfig.dev.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\Rekursif_extension_metotlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\ref\Rekursif_extension_metotlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\bin\Debug\net5.0\Rekursif_extension_metotlar.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.csproj.AssemblyReference.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.AssemblyInfo.cs
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\ref\Rekursif_extension_metotlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\Rekursif_extension_metotlar\obj\Debug\net5.0\Rekursif_extension_metotlar.genruntimeconfig.cache
