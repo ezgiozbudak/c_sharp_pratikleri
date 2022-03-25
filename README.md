@@ -17,5 +17,6 @@ C# eğitimi boyunca yaptığım pratikler.
 * ### [Rekürsif ve Extension Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Rekursif_extension_metotlar)
 * ### [Algoritma Soruları](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/AlgoritmaSorulari)
 * ### [Hazır Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/HazirMetotlar)
+* ### [DateTime ve Math Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/DateTimeveMathS%C4%B1n%C4%B1f%C4%B1)
 
 
