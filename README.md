@@ -15,4 +15,7 @@ C# eğitimi boyunca yaptığım pratikler.
 * ### [Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Metotlar)
 * ### [Metot Overloading](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/metotOverloading)
 * ### [Rekürsif ve Extension Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Rekursif_extension_metotlar)
+* ### [Algoritma Soruları](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/AlgoritmaSorulari)
+* ### [Hazır Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/HazirMetotlar)
+
 
