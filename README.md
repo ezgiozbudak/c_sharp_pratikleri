@@ -20,5 +20,6 @@ C# eğitimi boyunca yaptığım pratikler.
 * ### [DateTime ve Math Metotlar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/DateTimeveMathS%C4%B1n%C4%B1f%C4%B1)
 * ### [Generic List](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/GenericList)
 * ### [Array List](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/arrayList)
+* ### [Dictionary](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/dictionary)
 
 
