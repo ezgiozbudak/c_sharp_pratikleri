@@ -1,0 +1,16 @@
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\Odev3.exe
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\Odev3.deps.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\Odev3.runtimeconfig.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\Odev3.runtimeconfig.dev.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\Odev3.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\ref\Odev3.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\bin\Debug\net5.0\Odev3.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.csproj.AssemblyReference.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.AssemblyInfoInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.AssemblyInfo.cs
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\ref\Odev3.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\AlgoritmaSoruları2\Odev3\obj\Debug\net5.0\Odev3.genruntimeconfig.cache
