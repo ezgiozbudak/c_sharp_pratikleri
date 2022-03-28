@@ -22,5 +22,6 @@ C# eğitimi boyunca yaptığım pratikler.
 * ### [Array List](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/arrayList)
 * ### [Dictionary](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/dictionary)
 * ### [Algoritma Soruları-2](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/AlgoritmaSorular%C4%B12)
+* ### [Sınıflar-1](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Siniflar)
 
 
