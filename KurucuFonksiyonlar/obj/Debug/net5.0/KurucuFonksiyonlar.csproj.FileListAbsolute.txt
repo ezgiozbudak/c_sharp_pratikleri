@@ -1,0 +1,16 @@
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\KurucuFonksiyonlar.exe
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\KurucuFonksiyonlar.deps.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\KurucuFonksiyonlar.runtimeconfig.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\KurucuFonksiyonlar.runtimeconfig.dev.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\KurucuFonksiyonlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\ref\KurucuFonksiyonlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\bin\Debug\net5.0\KurucuFonksiyonlar.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.AssemblyInfo.cs
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\ref\KurucuFonksiyonlar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\KurucuFonksiyonlar\obj\Debug\net5.0\KurucuFonksiyonlar.genruntimeconfig.cache
