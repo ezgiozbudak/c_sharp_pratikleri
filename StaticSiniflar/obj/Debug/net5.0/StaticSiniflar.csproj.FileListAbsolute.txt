@@ -1,0 +1,16 @@
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\StaticSiniflar.exe
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\StaticSiniflar.deps.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\StaticSiniflar.runtimeconfig.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\StaticSiniflar.runtimeconfig.dev.json
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\StaticSiniflar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\ref\StaticSiniflar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\bin\Debug\net5.0\StaticSiniflar.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.csproj.AssemblyReference.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.AssemblyInfoInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.AssemblyInfo.cs
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.csproj.CoreCompileInputs.cache
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\ref\StaticSiniflar.dll
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.pdb
+C:\Users\ezgiz\Desktop\pratikler(c#)\StaticSiniflar\obj\Debug\net5.0\StaticSiniflar.genruntimeconfig.cache
