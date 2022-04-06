@@ -26,6 +26,7 @@ C# eğitimi boyunca yaptığım pratikler.
 * ### [Constructor(Kurucu Fonksiyonlar)](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/KurucuFonksiyonlar)
 * ### [Encapsulation](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Encapsulation)
 * ### [Statik Sınıflar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/StaticSiniflar)
+* ### [Struct Kavramı](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Struct_)
 
 
 
