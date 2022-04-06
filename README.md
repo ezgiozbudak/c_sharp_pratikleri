@@ -27,6 +27,7 @@ C# eğitimi boyunca yaptığım pratikler.
 * ### [Encapsulation](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Encapsulation)
 * ### [Statik Sınıflar](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/StaticSiniflar)
 * ### [Struct Kavramı](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Struct_)
+* ### [Enum](https://github.com/ezgiozbudak/c_sharp_pratikleri/tree/main/Enum_Kavrami)
 
 
 
